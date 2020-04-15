@@ -19,5 +19,5 @@ gcloud run deploy gcloud run deploy --image gcr.io/PROJECT-ID/helloworld --platf
 When completed:
 
 ```
-gcloud run delete 
+gcloud run delete ...
 ```
